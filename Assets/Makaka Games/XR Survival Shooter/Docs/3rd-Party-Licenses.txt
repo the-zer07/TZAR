@@ -1,0 +1,11 @@
+Licenses
+
+This asset is governed by the Asset Store EULA; however, the following components are governed by the licenses indicated below:
+
+1. TextMesh Pro
+Asset Store EULA
+© 2018 Unity Technologies
+
+2. Survival Shooter tutorial
+Asset Store EULA
+© 2018 Unity Technologies
